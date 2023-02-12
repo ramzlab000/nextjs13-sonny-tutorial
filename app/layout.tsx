@@ -8,9 +8,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang='en'>
-      <head>
-        <title>ramzlab000 learns nextjs13 from sonny sanga!</title>
-      </head>
+      <head />
       <body className="antialiased">
         <Header />
         {children}
